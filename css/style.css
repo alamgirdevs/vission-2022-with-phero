@@ -1,0 +1,156 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    font-size: 50px;
+}
+h2 {
+    font-size: 40px;
+}
+
+.mission {
+    height: 400px;
+    padding: 10px;
+}
+.missionone {
+    display: flex;
+}
+.mission-half {
+    width: 50%;
+}
+.mission-half img {
+    width: 60%;
+}
+.color {
+    color: blue;
+}
+.e-now {
+    height: 50px;
+    width: 100px;
+    border-radius: 7%;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+/* ...............1st section end................... */
+
+.mvg {
+    height: 580px;
+    padding: 10px;
+}
+
+.mvgone {
+    display: flex;
+}
+
+.mvgtwo {
+    width: 33.33%;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.mvgtwo img {
+    width: 40%;
+}
+.center {
+    text-align: center;
+}
+
+/* ..................2nd section end..................... */
+
+.limit {
+    height: 400px;
+    padding: 10px;
+}
+.limitone {
+    display: flex;
+}
+
+.limittwo {
+    width: 50%;
+}
+
+.limittwo img {
+    width: 70%;
+}
+
+.doc {
+    height: 50px;
+    width: 150px;
+    background-color: blue;
+    color: white;
+    padding: 15px;
+    text-decoration: none;
+    border-radius: 5%;
+}
+/* ............3rd section end...................... */
+
+.global{
+    height: 500px;
+    padding: 20px;
+}
+.globalone {
+    display: flex;
+}
+.globaltwo {
+    width: 50%;
+}
+
+.globaltwo img {
+    width: 60%;
+}
+
+.mentation {
+    height: 70px;
+    width: 150px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 7px;
+    border-radius: 5px;
+
+}
+/* .................4th section end............... */
+
+.feature {
+    height: 550px;
+    padding: 20px;
+}
+.featureone {
+    display: flex;
+}
+.featuretwo {
+    width: 50%;
+}
+.featuretwo img {
+    width: 90%;
+}
+.m-center {
+    text-align: center;
+}
+.my-feature {
+    height: 50px;
+    width: 150px;
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+/* ...............5th section end............. */
+
+footer {
+    height: 150px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+/* .........footer end........... */
+.m-section {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 80%;
+}
